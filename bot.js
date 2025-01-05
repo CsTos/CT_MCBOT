@@ -6,7 +6,6 @@ const port_CS = 25565;//服务器端口
 const usr_name = '用户名';//BOT的用户名
 const pass_CT1 = '密码'; //密码，请勿截图
 const CT_ver = '1.20.1';
-//let bot;
 let cs_df = 0;
 const bot = mineflayer.createBot({
     host: CT_host,
